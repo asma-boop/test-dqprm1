@@ -26,3 +26,4 @@ imc = indice_de_masse_corporelle(70, 1.75)
 
 Exercie okay tu n'est pas obèse et c'est ok corrigé par Hinde et Asma la spé des brownies
 
+Exercice revue par Lina et Sarah est il est effectivement toujours ok
